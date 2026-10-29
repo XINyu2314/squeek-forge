@@ -1,6 +1,6 @@
 # Squeek Forge
 
-把 Squeekchain 的链上 work 变成一座夜班锻造工坊：区块是钢锭，转速驱动砂轮和锻锤，结算是出炉记录。页面页脚署名 **@Despite_zmw**。
+把 Squeekchain 的链上 work 变成一座夜班锻造工坊：区块是钢锭，转速驱动砂轮和锻锤，结算是出炉记录。页面页脚署名 **@xinchne_eth**。
 
 应用是单个 `index.html`，CSS、原生 JavaScript、铁匠 SVG 和 favicon 全部内联。没有框架、运行时依赖、钱包、交易、登录或后端。`assets/social.png` 仅供链接分享预览使用；正常页面不依赖外部字体或图片服务。
 
